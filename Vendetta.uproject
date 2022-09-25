@@ -7,6 +7,14 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
 		}
 	]
 }
